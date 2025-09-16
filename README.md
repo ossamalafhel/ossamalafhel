@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ossama Lafhel 👋</h1>
 
-<!--
-**ossamalafhel/ossamalafhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineer • Creator of Reactive Transactionnal • Open Source Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+
+- 🛠️ Creator of <b>Reactive Transactionnal</b> — an innovative solution for reactive transactional management.
+- 🌐 Passionate about distributed systems, application resilience, and scalability.
+- 🤖 Interested in AI, cloud, DevOps, and automation.
+- 🚀 Always learning, sharing, and collaborating in open source!
+
+---
+
+### 🧰 Tech Stack
+
+- **Languages:** Java, TypeScript, Python, Go
+- **Backend:** Spring, Node.js, ReactiveX
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, CI/CD
+- **Data & Messaging:** Kafka, RabbitMQ, PostgreSQL
+
+---
+
+### 🏆 Featured Projects
+
+- [Reactive Transactionnal](https://github.com/ossamalafhel/reactive-transactionnal)  
+  <sub>Reactive transactional management for modern applications.</sub>
+- [kanpredict-swe-plateform](https://github.com/ossamalafhel/kanpredict-swe-plateform)  
+  <sub>AI platform for the Swedish language.</sub>
+- [coollabsio/coolify](https://github.com/coollabsio/coolify)  
+  <sub>Open-source, self-hostable Heroku & Netlify alternative.</sub>
+- [ossamalafhel/registry](https://github.com/ossamalafhel/registry)  
+  <sub>Personal registry and package management tools.</sub>
+
+---
+
+### 🌍 Contact Me
+
+- Twitter: [@OssamaLafhel](https://twitter.com/OssamaLafhel)
+- LinkedIn: [ossamalafhel](https://linkedin.com/in/ossamalafhel)
+- Email: ossama.lafhel@gmail.com
+
+---
