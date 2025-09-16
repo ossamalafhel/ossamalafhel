@@ -28,19 +28,12 @@
 
 - [Reactive Transactionnal](https://github.com/ossamalafhel/reactive-transactionnal)  
   <sub>Reactive transactional management for modern applications.</sub>
-- [kanpredict-swe-plateform](https://github.com/ossamalafhel/kanpredict-swe-plateform)  
-  <sub>AI platform for the Swedish language.</sub>
-- [coollabsio/coolify](https://github.com/coollabsio/coolify)  
-  <sub>Open-source, self-hostable Heroku & Netlify alternative.</sub>
-- [ossamalafhel/registry](https://github.com/ossamalafhel/registry)  
-  <sub>Personal registry and package management tools.</sub>
 
 ---
 
 ### 🌍 Contact Me
 
-- Twitter: [@OssamaLafhel](https://twitter.com/OssamaLafhel)
+- Twitter: [@ossamalafhel](https://twitter.com/ossamalafhel)
 - LinkedIn: [ossamalafhel](https://linkedin.com/in/ossamalafhel)
-- Email: ossama.lafhel@gmail.com
 
 ---
